@@ -7,5 +7,4 @@ Alteração feita no diretório remoto
 n° | commit | descrição 
 --- | --- | ---
 1 | auteração local | ah, eu não sei
---- | --- | ---
 2 | auteração remoto | bh, eu sei
